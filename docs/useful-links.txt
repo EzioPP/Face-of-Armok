@@ -1,0 +1,5 @@
+Making a DFHack Script
+https://docs.dfhack.org/en/latest/docs/guides/modding-guide.html
+
+Coding in lua
+https://www.lua.org/manual/5.3/manual.html
